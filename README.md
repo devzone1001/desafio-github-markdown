@@ -10,7 +10,7 @@
 # Dez Comandos Básicos do Git
 1. _git init_
     
-    - Cria um repositório.
+    - Inicializa um repositório Git em um diretório.
 
 2. _git clone_
     
@@ -27,17 +27,24 @@
 5. _git status_
 
     - Exibe o estado atual do seu repositório, incluindo arquivos modificados, adicionados e não rastreados.
+
 6. _git push_ 
 
     - Envia os commits locais para um repositório remoto.
+
 7. _git pull_ 
 
-    - Atualiza o repositório local com as alterações do repositório remoto.
+    - Atualiza o repositório local com as alterações do repositório 
+    remoto.
+
 8. _git branch_
 
     - Lista, cria ou exclui branches (ramificações) no repositório.
+
 9. _git checkout [branch ou arquivo]_
 
     - Altera de branch ou restaura arquivos do estado do último commit.
+
 10. _git merge [branch]_
+
     - Combina as alterações de uma branch com outra.
