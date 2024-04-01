@@ -51,3 +51,9 @@
 10. _git merge [branch]_
 
     - Combina as alterações de uma branch com outra.
+
+    # Memes git e github 
+
+    ![meme git e github](https://res.cloudinary.com/practicaldev/image/fetch/s--lO5zCtSa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8n0nckidouustxz815k5.jpg)
+
+
